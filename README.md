@@ -1,7 +1,7 @@
-
 # N3rd
 
 A simple yet "beautiful" Nord-themed Hyprland configuration.
+
 ## Screenshots
 
 ![ops...](screenshots/s1.png)
@@ -9,3 +9,6 @@ A simple yet "beautiful" Nord-themed Hyprland configuration.
 ![ops...](screenshots/s3.png)
 ![ops...](screenshots/s4.png)
 ![ops...](screenshots/s5.png)
+
+## wallpapers
+[wallhaven](https://wallhaven.cc/)'s wallpapers recolored with [palettum](https://github.com/arrowpc/palettum)
