@@ -1,0 +1,24 @@
+PACKAGES
+vesktop - discord
+firefox - browser
+alacritty - terminal
+fish - shell
+nordic-gtk-git - nord gtk theme
+quickshell - bar
+hyprpaper, mpvpaper - wallpaper
+rofi - app launcher
+micro, helix - tui editors
+zed - gui editor
+obsidian - knowledge base
+nemo - file manager
+btop - resource monitor
+waypaper - wallpaper changer
+hyprshot - screenshots
+
+TODO
+hyprlock - screen lock
+? - logout menu
+? - notification deamon
+
+NOTES
+for Radeon GPUs always (almost) choose vulkan-radeon and NOT amdvlk
