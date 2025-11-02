@@ -14,6 +14,7 @@ nemo - file manager
 btop - resource monitor
 waypaper - wallpaper changer
 hyprshot - screenshots
+ttf-jetbrains-mono-nerd - font
 
 TODO
 hyprlock - screen lock
